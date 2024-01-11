@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 :root {
-  /* --background-color: linear-gradient(to right, #e100ff, #7f00ff); */
   --background-color: radial-gradient(
     circle farthest-corner at 10% 20%,
     rgba(249, 232, 51, 1) 0%,
